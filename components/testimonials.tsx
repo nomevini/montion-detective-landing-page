@@ -18,7 +18,7 @@ export default function Testimonials() {
           </div>
 
           <div className='flex justify-center items-center'>
-              <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0" target='_blank'>Começar Agora</a>
+            <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://github.com/nomevini/montion-detective" target='_blank'>Começar Agora</a>
           </div>
 
           {/* Vinicius */}
@@ -47,7 +47,7 @@ export default function Testimonials() {
                 <div className="absolute top-0 -mt-8 left-1/2 transform -translate-x-1/2">
                   <Image className="relative rounded-full" src={Flavio} width={96} height={96} alt="Developer 2" />
                 </div>
-               
+
                 <a href='http://lattes.cnpq.br/9403364226017898' target="_blank" className="hover:text-blue-700 font-bold text-lg not-italic mb-1">Flávio Henrique Duarte de Araujo</a>
                 <div className="text-gray-600">
                   <span>Professor Efetivo da UFPI - CSHNB</span>
@@ -56,7 +56,7 @@ export default function Testimonials() {
                   <span>Desenvolvedor do Montiondetective</span>
                 </div>
               </div>
-            </div>            
+            </div>
           </div>
         </div>
       </div>
